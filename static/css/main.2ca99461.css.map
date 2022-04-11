@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.2ca99461.css","mappings":"AAAA,gBAEE,WAAY,CACZ,WAAY,CAFZ,UAGF,CACA,YAEE,cAAe,CADf,WAEF","sources":["estilos.css"],"sourcesContent":[".Counter button {\n  width: 80px;\n  height: 80px;\n  margin: 10px;\n}\n.Counter h1 {\n  margin: auto;\n  display: inline;\n}\n"],"names":[],"sourceRoot":""}
