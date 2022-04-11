@@ -32,7 +32,7 @@ function Counter() {
 
   return (
     <div className="Counter">
-      <h2>Contador useReducer</h2>
+      <h2>Count useReducer</h2>
 
       <button onClick={() => dispatch({ type: "INCREMENT" })}>+1</button>
       <h1>{state.count}</h1>
